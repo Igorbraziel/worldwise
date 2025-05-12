@@ -29,7 +29,7 @@ This project helped me deepen my understanding of modern front-end development u
 
 ## 🛠️ Getting Started
 
-1. Clone the repo:
+Clone the repo and run the app:
 
 ```bash
 git clone https://github.com/Igorbraziel/worldwise.git
