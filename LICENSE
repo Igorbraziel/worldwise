@@ -1,0 +1,24 @@
+
+---
+> 🚀 Just wrapped up a new project!
+>
+> I built **WorldWise**, a modern Single Page Application where you can mark and explore places you've visited around the world 🌍.
+>
+> Through this project, I learned and applied:
+>
+> 🔹 Vite  
+> 🔹 React Router  
+> 🔹 CSS Modules  
+> 🔹 URL Parameters & Query Strings  
+> 🔹 React Context API  
+> 🔹 React Leaflet for interactive maps  
+> 🔹 Performance optimization with `React.memo`, `useMemo`, and `useCallback`  
+> 🔹 Code splitting with `React.lazy` and `Suspense`
+>
+> The app features a fast, responsive UI with map-based interaction and smooth navigation between pages.
+>
+> Check out the project here 👉 [https://github.com/Igorbraziel/worldwise]
+>
+> I’d love your feedback!
+
+---

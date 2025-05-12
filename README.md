@@ -1,8 +1,38 @@
-# React + Vite
+# WorldWise 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WorldWise is an interactive travel map web app that allows you to track, visualize, and explore the places you've visited around the world. Built with modern React tools, it offers a smooth, fast, and engaging user experience.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack & Concepts Learned
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project helped me deepen my understanding of modern front-end development using React and its ecosystem:
+
+- ⚡️ [Vite](https://vitejs.dev/) — Lightning-fast build tool
+- ⚛️ [React](https://reactjs.org/) — UI library for building interfaces
+- 🌍 [React Router](https://reactrouter.com/) — Routing for single-page applications
+- 🎨 CSS Modules — Locally scoped component styling
+- 🔗 URL Parameters & Query Strings — Dynamic routing and data handling
+- 📦 Context API — Global state management in React
+- 🗺️ [React Leaflet](https://react-leaflet.js.org/) — Interactive map integration with Leaflet
+- ⚙️ Performance Optimizations:
+  - `React.memo`
+  - `useMemo`
+  - `useCallback`
+- 🧩 Code Splitting with `lazy` & `Suspense` — Efficient component loading
+
+## ✨ Features
+
+- Add and manage visited locations on a map
+- Leave notes for each place
+- Interactive map with zoom and pan
+- Dynamic page navigation without reloads (SPA)
+- Clean, modular UI with responsive design
+
+## 🛠️ Getting Started
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/Igorbraziel/worldwise.git
+cd worldwise
+npm install
+npm run dev
